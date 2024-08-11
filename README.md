@@ -1,4 +1,4 @@
-# Telegram Kanal İçerik Kopyalama Botu
+# Telegram Kanal/Grup İçerik Kopyalama Botu
 
 Bu Python scripti, belirli Telegram kanallarından içerik kopyalayıp otomatik olarak başka bir Telegram grubuna veya kanalına göndermek için tasarlanmıştır. Bot, metin mesajları, fotoğraflar ve videolar gibi çeşitli medya türlerini işleyebilir. Belirtilen kanalları periyodik olarak kontrol eder ve daha önce gönderilmemiş yeni içerikleri hedef gruba veya kanala iletir.
 
@@ -21,8 +21,8 @@ Bu Python scripti, belirli Telegram kanallarından içerik kopyalayıp otomatik 
 
 1. **Depoyu klonlayın:**
    ```bash
-   git clone https://github.com/yourusername/telegram-channel-copier.git
-   cd telegram-channel-copier
+   git clone https://github.com/mebularts/Copy-Telegram-Content.git
+   cd Copy-Telegram-Content
    ```
 
 2. **Gerekli Python paketlerini yükleyin:**
