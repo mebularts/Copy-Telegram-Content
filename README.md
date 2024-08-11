@@ -2,7 +2,7 @@
 
 Bu Python scripti, belirli Telegram kanallarından içerik kopyalayıp otomatik olarak başka bir Telegram grubuna veya kanalına göndermek için tasarlanmıştır. Bot, metin mesajları, fotoğraflar ve videolar gibi çeşitli medya türlerini işleyebilir. Belirtilen kanalları periyodik olarak kontrol eder ve daha önce gönderilmemiş yeni içerikleri hedef gruba veya kanala iletir.
 
-[@mebularts](https://t.me/mebularts) tarafından ![kalp](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/17fa94fb-0ae5-45a2-8313-2d3eedaf69db/d8fohut-eb4f893c-d1ad-4111-8e05-29993454b082.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzE3ZmE5NGZiLTBhZTUtNDVhMi04MzEzLTJkM2VlZGFmNjlkYlwvZDhmb2h1dC1lYjRmODkzYy1kMWFkLTQxMTEtOGUwNS0yOTk5MzQ1NGIwODIuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.J7M952F5dOS4-H45vJfTWA1yYE0ePYbTwamSfZHEQPY =100x100) ile yazılmıştır.
+[@mebularts](https://t.me/mebularts) tarafından ![kalp](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/17fa94fb-0ae5-45a2-8313-2d3eedaf69db/d8fohut-eb4f893c-d1ad-4111-8e05-29993454b082.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzE3ZmE5NGZiLTBhZTUtNDVhMi04MzEzLTJkM2VlZGFmNjlkYlwvZDhmb2h1dC1lYjRmODkzYy1kMWFkLTQxMTEtOGUwNS0yOTk5MzQ1NGIwODIuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.J7M952F5dOS4-H45vJfTWA1yYE0ePYbTwamSfZHEQPY) ile yazılmıştır.
 
 ## Özellikler
 
@@ -50,7 +50,7 @@ Bu Python scripti, belirli Telegram kanallarından içerik kopyalayıp otomatik 
 
 1. **Botu çalıştırın:**
    ```bash
-   python telegram_channel_copier.py
+   python main.py
    ```
 
    Bot çalışmaya başlayacak ve JSON yapılandırmasında belirtilen kanalları yeni içerik için periyodik olarak kontrol edecektir. Yeni içerik bulunduğunda, belirtilen grup veya kanala iletecektir.
